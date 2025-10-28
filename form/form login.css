@@ -10,7 +10,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('/foto/BG_CS_PV2_71.jpeg');
+    background: url(/foto/BG_CS_PV2_71.jpeg);
     background-size: cover;
     background-position: center;
 }
@@ -115,3 +115,4 @@ body{
     text-decoration: underline;
 
 }
+
