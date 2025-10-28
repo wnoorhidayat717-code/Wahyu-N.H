@@ -239,7 +239,7 @@ header {
 
 .project {
   padding: 100px 10%;
-  color: #fff;
+  color: #000000;
   text-align: center;
   background: rgba(255, 255, 255, 0.15);
   border-radius: 30px;
@@ -428,3 +428,4 @@ header {
 .footer-nav a:hover {
   color: #6a5acd;
 }
+
